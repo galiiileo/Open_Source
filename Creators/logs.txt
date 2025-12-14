@@ -1,0 +1,66 @@
+commit cb1f247709a53d781eba8a123993bbbbcd2e4558
+Merge: 4146407 447fd85
+Author: mahmoud_11 <149039148+Mahmoudgabe@users.noreply.github.com>
+Date:   Sun Dec 14 20:47:15 2025 +0200
+
+    Merge branch 'main' of https://github.com/galiiileo/Open_Source
+
+commit 414640738b2278be88795f8c257774d7585356e2
+Author: mahmoud_11 <149039148+Mahmoudgabe@users.noreply.github.com>
+Date:   Sun Dec 14 20:46:37 2025 +0200
+
+    my edit
+
+commit 447fd850de56c79de80d27e18c5190518d1f0879
+Author: Warri00R <warrior1682024@gmail.com>
+Date:   Sun Dec 14 20:43:38 2025 +0200
+
+    Abdalla.txt
+
+commit b14c191bec9118bb88fe3affc7be16dc9ed840e0
+Author: galiiileo <mahmoudmoustafs91@gmail.com>
+Date:   Sun Dec 14 20:35:16 2025 +0200
+
+    Add the author
+
+commit 2fd370dff1ea0a8adcf25b931ab31d7a0d8ddd1d
+Author: mahmoud_11 <149039148+Mahmoudgabe@users.noreply.github.com>
+Date:   Sun Dec 14 20:27:09 2025 +0200
+
+    add output files
+
+commit f4f2080cd334ed99e928eca3f846e0b468fae4b7
+Author: Warri00R <warrior1682024@gmail.com>
+Date:   Sun Dec 14 20:07:32 2025 +0200
+
+    adding aduio and image techinquies
+
+commit 39fd213dccb6a121c35d46454c2a8089544d4251
+Author: 0X_Galileo <125733162+galiiileo@users.noreply.github.com>
+Date:   Sun Dec 14 19:30:06 2025 +0200
+
+    Create README.md
+
+commit 3991717bd5aadc17137b8d06191f750a4a14c9ac
+Author: galiiileo <mahmoudmoustafs91@gmail.com>
+Date:   Sun Dec 14 19:21:40 2025 +0200
+
+    remove unneeded files
+
+commit ad139886b89c2660044ea7f2f51a7bccd6960380
+Author: galiiileo <mahmoudmoustafs91@gmail.com>
+Date:   Sun Dec 14 19:15:07 2025 +0200
+
+    add main file
+
+commit 456de8bc941a86cb26a6b384df28777be1656b57
+Author: galiiileo <mahmoudmoustafs91@gmail.com>
+Date:   Sun Dec 14 18:19:32 2025 +0200
+
+    add text file
+
+commit ea216e8cf04e1753e2fd5e260cbb6e80afb6ea9c
+Author: galiiileo <mahmoudmoustafs91@gmail.com>
+Date:   Sun Dec 14 18:17:05 2025 +0200
+
+    Initial commit
